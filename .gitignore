@@ -1,0 +1,3 @@
+build/*
+dist/*
+kickpass_import.egg-info/*
